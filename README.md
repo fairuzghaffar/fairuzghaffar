@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started my development journey in 2022<br>📚 Crafting modern Web UI Kits for seamless development  <br>🎯 Goals: Create positive impact solutions and enhance user experiences<br>🎲 Fun fact: I'm a huge fan of clean design and minimalism, both in coding and in my personal space!</p>
+<p align="left">✨ Started develop program in 2022<br>📚 Focus on Crafting modern Web UI Kits for seamless development  <br>🎯 Goals: Create positive impact solutions and enhance user experiences<br>🎲 Fun fact: I'm a huge fan of clean design and minimalism, both in coding and in my personal space!</p>
 
 ###
 
